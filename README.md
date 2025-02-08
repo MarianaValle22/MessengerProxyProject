@@ -1,5 +1,5 @@
  # GuasappMessenger - Taller 2
- ##Trabajado por Mariana Valle y Juan Pablo Benitez
+ ### Trabajado por Mariana Valle y Juan Pablo Benitez
 
 Simulador de una herramienta de mensajería dicho módulo tiene una vulvernabilidad, ya que en el momento que un usuario incluya el 
 texto
